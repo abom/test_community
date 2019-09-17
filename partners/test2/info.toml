@@ -1,3 +1,4 @@
-name = "Test2" 
+name = "Test2"
 description = "description"
 stars = 5
+url = "http://example.com"
